@@ -1,0 +1,1 @@
+local a=game.PlaceId;if a==7346416636 then warn("Pop It Trading")loadstring(game:HttpGet("https://raw.githubusercontent.com/liaaqqt/Xacious-Hub1/main/Xacious%20Hub"))()elseif a==7903991471 then warn("Pop It Trading")loadstring(game:HttpGet("https://raw.githubusercontent.com/liaaqqt/Xacious-Hub1/main/Xacious%20Hub"))()else warn("Unknown PlaceId:",a)end
